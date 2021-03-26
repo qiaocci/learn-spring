@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>spring01-ioc01</artifactId>
+    <artifactId>spring02-hellospring</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>spring01-ioc01</name>
+    <name>spring02-hellospring</name>
     <packaging>war</packaging>
 
     <properties>
